@@ -1,4 +1,4 @@
-Notes app
+Node.js - Notes APP
 =========================================
 
 Simple notes app which runs in the console.
